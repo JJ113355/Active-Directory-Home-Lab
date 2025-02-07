@@ -80,3 +80,39 @@ Select "Add a new forest", and create Root Domain Name.<br/>
 <br />
 <br />
 </p>
+
+
+
+
+
+<h2>Part 4: create organizational units (OUs) for different departments.</h2>
+<p align="center">
+Go to “Active Directory Users and Computers” application<br/>
+Create Organizational units (OU) for different departments (USA, Europe, Asia)<br/>
+<img src="https://i.imgur.com/ow19Yet.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Part 5: Create User accounts and groups within these OUs.</h2>
+<p align="center">
+<img src="https://i.imgur.com/IXR2nwv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+
+
+
+
+
